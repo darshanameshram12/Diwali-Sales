@@ -24,7 +24,7 @@ The dataset includes:
 
 ## 🛠️ Tools & Libraries Used
 
-- Python 🐍
+- Python 
 - Jupyter Notebook
 - Pandas
 - Matplotlib
